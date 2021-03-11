@@ -1,0 +1,32 @@
+@import url(reset.css);
+
+:root {
+  --white: #F5F6FB;
+  --gray: #ABAFC9;
+  --black: #202020;
+  --blue: #00279A;
+}
+
+body {
+  height: 100vh;
+  background-color: var(--white);
+
+  font-family: 'Roboto', sans-serif;
+}
+
+.line {
+  margin: 1rem 0 1.4rem;
+  height: 4px;
+  width: 8%;
+  background-color: var(--blue);
+}
+
+button {
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 720px) {
+  html {
+    font-size: 87.5%;
+  }
+}
