@@ -33,7 +33,7 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/luizgustavotogni/).
 **Clonando o Repositorio**
 
 ```
-$ git clone https://github.com/luizGTogni/convert-bin2dec
+$ git clone https://github.com/luizGTogni/convert-bin2dec.git
 
 $ cd convert-bin2dec
 ```
